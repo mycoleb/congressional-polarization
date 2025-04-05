@@ -121,6 +121,6 @@ This chart shows how polarization metrics have increased over time, with a sharp
 
 ## Future Improvements
 
-- Integration with real congressional voting data
+- I need more integration with real congressional voting data
 - Sentiment analysis of congressional speeches
 - Analysis of specific policy areas and how polarization varies
