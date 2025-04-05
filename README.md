@@ -1,6 +1,6 @@
 # Congressional Polarization Analysis
 
-This project analyzes and visualizes polarization in the United States Congress, with a focus on the 119th Congress (2025-2026) and historical trends. It generates visualizations similar to the example provided, showing the increasing polarization between parties over time.
+This project analyzes and visualizes polarization in the United States Congress, with a focus on the 119th Congress (2025-2026) and historical trends. It generates visualizations, showing the increasing polarization between parties over time.
 
 ## Features
 
